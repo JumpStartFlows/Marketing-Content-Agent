@@ -47,7 +47,7 @@ Creating and managing consistent marketing content is both time-consuming and re
 
 Below is a visual walkthrough of the Marketing Content Agent workflow:
 
-![Marketing Content Agent Workflow](./workflow_screenshot.png)
+[Marketing Content Agent Workflow](./Workflow_overview.png)
 
 *Animated walkthrough/demo gif coming soon.*
 
